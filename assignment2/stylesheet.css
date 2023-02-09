@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(234, 230, 8);
+    font-family: 'Babylonica', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  header {
+    text-align: center;
+    margin: 2em;
+  }
+  
+  h1 {
+    font-family: "Georgia", serif;
+    font-size: 3em;
+    color: rgb(5, 2, 189);
+    text-shadow: 2px 2px #ccc;
+  }
+  
+  h2 {
+    font-family: "Courier New", monospace;
+    font-size: 1.5em;
+    color: rgb(242, 133, 9);
+  }
+  
+  main p {
+    font-size: 1.25em;
+    text-align: center;
+    margin: 1em 0;
+    color: rgb(220, 13, 13);
+  }
